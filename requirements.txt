@@ -22,7 +22,7 @@ threadpoolctl
 urllib3
 Werkzeug
 yarg
-nltk
+
 
 
 
